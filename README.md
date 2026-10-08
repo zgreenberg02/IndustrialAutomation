@@ -11,7 +11,6 @@ Automation logic and HMI dashboards developed at Dennis Group. Programmed Allen-
 
 
 
-![Industrial Automation Demo](https://raw.githubusercontent.com/zgreenberg02/IndustrialAutomation/main/Images/automation.gif)
-
+![Industrial Automation](Images/automation.gif)
 
 
