@@ -7,3 +7,11 @@ Automation logic and HMI dashboards developed at Dennis Group. Programmed Allen-
 <p align="center">
   <img src="./Images/updatesInProgress.svg" alt="Portfolio Updates in Progress" />
 </p>
+
+
+
+
+![Industrial Automation Demo](https://raw.githubusercontent.com/zgreenberg02/IndustrialAutomation/main/Images/automation.gif)
+
+
+
